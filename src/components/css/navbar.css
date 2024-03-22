@@ -1,0 +1,21 @@
+
+
+.navbar{
+    background-color: #ffadc3 !important;
+    box-shadow: 2px 2px 4px #bc7798;
+    height: 4rem;
+}
+
+.nav-link{
+    color: aliceblue !important;
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+
+.nav-link:hover{
+    color: #b79ca5 !important;
+}
+
+.nav-link{
+    margin: 0 1rem;
+}
