@@ -1,14 +1,15 @@
 .card{
     border-bottom-left-radius: 2rem;
+    box-shadow: 0 0 10px #cd4386;
 }
 
 
 .card-img-top{
-    height: 100%;
+    height: 15rem;
 }
 
 .card-body{
-    max-height:11rem ;
+    max-height:12rem ;
 }
 
 .btn-card{

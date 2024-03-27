@@ -25,7 +25,7 @@ export const MainPage = () => {
             <div id='model' className='container-model mb-5 pb-5'>
               <div className='d-flex flex-column align-items-center justify-content-start mt-5 '>
                 <h2 className='h2-model mt-2 mb-3'>Modelos</h2>
-                <div className="container-models row  mt-1 g-5" style={{maxWidth: '100%'}}>
+                <div className="container-models row  mt-1 g-5" style={{maxWidth: '70%'}}>
 
                   {models.map((model, index) => (
 
@@ -41,7 +41,7 @@ export const MainPage = () => {
             <div id='colour' className='container-colores ' style={{width: '100%'}}>
               <div className=' d-flex flex-column align-items-center align-content-center justify-content-start mt-5 'style={{width: '100%'}}>
                   <h2 className='h2-model mb-5 pb-3'>Colores</h2>
-                  <div className='row d-flex justify-content-center align-content-center container-pallet' style={{maxWidth: '70%'}}>
+                  <div className='row d-flex justify-content-center align-content-center container-pallet' style={{maxWidth: '60%'}}>
 
                   
 
